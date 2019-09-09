@@ -11,7 +11,7 @@ Visual Analysis of Inc's 5000 most successful companies on 2019
 
 2. Project Motivation
 
-This project started to take shape when I was looking for datasets for my first analysis project at Udacity DSND, and I received and email from Data.World with some datasets. One of those datasets was Inc. 5000 most successful companies. I visit the website and I really liked the idea of analysing that dataset mostly for the three questions a based this project on:
+This project started to take shape when I was looking for datasets for my first analysis project at Udacity DSND, and I received and email from Data.World with some datasets. One of those datasets was Inc. 5000 most successful companies. I visit the website and I really liked the idea of analyzing that dataset mostly for the three questions I based this project on:
 
 - Which is the hottest industry in 2019 (according to the dataset)?
 - What city/state showed most of the industry growth?
