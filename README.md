@@ -39,3 +39,7 @@ sources where I got the ideas for this repository, starting with Inc. Magazine t
 the project, second to data.world team for giving us access to this dataset and third to the so
 many Towards Data Science posts on Medium that brought insight to this project, in particular to the
 data wrangling section.
+
+You can also see my Medium analysis of this project on this link:
+
+https://towardsdatascience.com/top-10-most-successful-companies-in-america-2019-2d946278a1ab#2f6a-f3f014c99a9a
